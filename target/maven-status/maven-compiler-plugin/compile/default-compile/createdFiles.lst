@@ -1,0 +1,7 @@
+hadoop_wordcount/WordInserter.class
+hadoop_wordcount/WordCount$TokenizerMapper.class
+hadoop_wordcount/WordInserter$TokenizerMapper.class
+hadoop_wordcount/WordInserter$IntSumReducer.class
+hadoop_wordcount/WordTable.class
+hadoop_wordcount/WordCount$IntSumReducer.class
+hadoop_wordcount/WordCount.class
